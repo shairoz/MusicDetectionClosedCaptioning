@@ -1,5 +1,5 @@
 # MusicDetectionClosedCaptioning
-We used downloadable news recordings from North Texas Television – the student run television station out of the University of North Texas (https://vimeo.com/nttv).
+**We used downloadable news recordings from North Texas Television – the student run television station out of the University of North Texas (https://vimeo.com/nttv)**.
 
 The list of news programs (we used the 10 first minutes from each, or less than 10 minutes for a few clips shorter than 10 minutes):
 
